@@ -1,0 +1,6 @@
+@RESTmouse_HostAddress = http://localhost:5071
+
+GET {{RESTmouse_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
